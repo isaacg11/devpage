@@ -75,65 +75,97 @@
 }
 #sidebar{
 	height: 600px;
-	width: 315px;
+	width: 415px;
 	background-color: rgba(0,0,0,.5);
-	margin-left: 950px;
-	margin-top: -470px;
+	margin-left: 850px;
+	margin-top: -480px;
 }
 #angular{
-	margin-left: 996px;
+	margin-left: 886px;
 	margin-top: -955px;
 }
 #node{
-	margin-left: 1120px;
+	margin-left: 1010px;
 	margin-top: -990px;
 	border-radius: 10px;
 }
 #mongo{
-	margin-left: 996px;
+	margin-left: 886px;
 	margin-top: -780px;
 	border-radius: 10px;
 
 }
 #express{
-	margin-left: 1120px;
+	margin-left: 1010px;
 	margin-top: -821px;
 	border-radius: 10px;
 
 }
 #meteor{
-	margin-left: 996px;
+	margin-left: 886px;
 	margin-top: -610px;
 	border-radius: 10px;
 
 }
 #bootstrap{
-	margin-left: 1120px;
+	margin-left: 1010px;
 	margin-top: -650px;
 	border-radius: 10px;
 	
 }
 #css{
-	margin-left: 996px;
+	margin-left: 886px;
 	margin-top: -440px;
 	border-radius: 10px;
+	height: 100px;
+	width: 100px;
 
 }
 #js{
-	margin-left: 1120px;
+	margin-left: 1010px;
 	margin-top: -480px;	
 	border-radius: 10px;
 }
+#html5{
+	margin-left: 1135px;
+	margin-top: -520px;
+	border-radius: 10px;
+	height: 100px;
+	width: 100px;
+}
+#gulp{
+	margin-left: 1135px;
+	margin-top: -810px;
+	border-radius: 10px;
+	height: 100px;
+	width: 100px;
+}
+#sass{
+	margin-left: 1135px;
+	margin-top: -1105px;
+	border-radius: 10px;
+	height: 100px;
+	width: 100px;
+}
+#passport{
+	margin-left: 1135px;
+	margin-top: -1393px;
+	border-radius: 10px;
+	height: 100px;
+	width: 100px;
+}
 #myjstoolbelt{
-	margin-left: 1060px;
-	margin-top: -730px;	
+	margin-left: 975px;
+	margin-top: -810px;	
 	color:#FFFFFF;
+	font-family:"Shadows Into Light";
+	font-size: 20px;
 }
 #bottombar{
 	height: 50px;
-	width: 950px;
+	width: 850px;
 	background-color: #E6E6E6;
-	margin-top: 500px;
+	margin-top: 480px;
 }
 #twitter{
 	height: 35px;
