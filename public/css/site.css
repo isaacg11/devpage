@@ -1,0 +1,162 @@
+#bodybkgd{
+	background-image: url('http://www.pixeden.com/media/k2/galleries/112/002-subtle-light-pattern-background-texture.jpg');
+}
+#profilenavbar{
+	height: 40px;
+	background-color: #4C4C4C;
+}
+#grey{
+	color: #70DBDB;
+	font-size: 40px;
+	margin-top: -20px;
+}
+#isaac{
+	color:#FFFFFF;
+	font-size: 40px;
+}
+#portfolio{
+	color: #FFFFFF;
+	margin-top: -45px;
+	margin-left: 350px;
+	font-size: 25px;
+}
+#profileheader{
+	margin-top: -20px;
+	margin-left: 30px;
+}
+#resources{
+	color: #FFFFFF;
+	margin-top: -45px;
+	margin-left: 530px;
+	font-size: 25px;
+}
+#articles{
+	color: #FFFFFF;
+	margin-top: -45px;
+	margin-left: 730px;
+	font-size: 25px;
+}
+#blog{
+	color: #FFFFFF;
+	margin-top: -45px;
+	margin-left: 900px;
+	font-size: 25px;
+}
+#myimage{
+	border-radius: 90px;
+	height: 80px;
+	width: 80px;
+	margin-left: 550px;
+	margin-top: 20px;
+}
+#title{
+	color:#70DBDB;
+	margin-top: 20px;
+	margin-left: 460px;
+}
+#about{
+	font-size: 90px;
+	margin-left: 30px;
+	margin-top: -60px;
+	font-family: "Lucida Grande";
+	color: #4C4C4C;
+}
+#statement{
+	margin-left: 30px;
+}
+#ccpa{
+	color:#70DBDB;
+}
+#statement2{
+	margin-left: 30px
+}
+#sidebar{
+	height: 600px;
+	width: 315px;
+	background-color: rgba(0,0,0,.5);
+	margin-left: 950px;
+	margin-top: -470px;
+}
+#angular{
+	margin-left: 996px;
+	margin-top: -955px;
+}
+#node{
+	margin-left: 1120px;
+	margin-top: -990px;
+	border-radius: 10px;
+}
+#mongo{
+	margin-left: 996px;
+	margin-top: -780px;
+	border-radius: 10px;
+
+}
+#express{
+	margin-left: 1120px;
+	margin-top: -821px;
+	border-radius: 10px;
+
+}
+#meteor{
+	margin-left: 996px;
+	margin-top: -610px;
+	border-radius: 10px;
+
+}
+#bootstrap{
+	margin-left: 1120px;
+	margin-top: -650px;
+	border-radius: 10px;
+	
+}
+#css{
+	margin-left: 996px;
+	margin-top: -440px;
+	border-radius: 10px;
+
+}
+#js{
+	margin-left: 1120px;
+	margin-top: -480px;	
+	border-radius: 10px;
+}
+#myjstoolbelt{
+	margin-left: 1060px;
+	margin-top: -730px;	
+	color:#FFFFFF;
+}
+#bottombar{
+	height: 50px;
+	width: 950px;
+	background-color: #E6E6E6;
+	margin-top: 500px;
+}
+#twitter{
+	height: 35px;
+	width: 35px;
+	margin-top: -70px;
+	margin-left: 30px;
+}
+#twitterstate{
+	margin-top: -60px;
+	margin-left: 70px;
+	font-size: 27px;
+}
+#linkedin{
+	margin-top: -85px;
+	margin-left: 240px;
+	height: 35px;
+	width: 35px;
+}
+#linkedinstate{
+	margin-top: -70px;
+	margin-left: 280px;
+	font-size: 27px;
+}
+#github{
+	margin-top: -85px;
+	margin-left: 470px;
+	height: 35px;
+	width: 35px;
+}
