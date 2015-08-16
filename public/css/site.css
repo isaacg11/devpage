@@ -9,20 +9,23 @@
 	color: #70DBDB;
 	font-size: 40px;
 	margin-top: -20px;
+	font-family: "Orbitron";
 }
 #isaac{
 	color:#FFFFFF;
 	font-size: 40px;
+	font-family: "Orbitron";
+
 }
 #portfolio{
 	color: #FFFFFF;
-	margin-top: -45px;
+	margin-top: -50px;
 	margin-left: 350px;
 	font-size: 25px;
 }
 #profileheader{
-	margin-top: -20px;
-	margin-left: 30px;
+	margin-top: -10px;
+	margin-left: 10px;
 }
 #resources{
 	color: #FFFFFF;
@@ -58,7 +61,7 @@
 	font-size: 90px;
 	margin-left: 30px;
 	margin-top: -60px;
-	font-family: "Lucida Grande";
+	font-family: "Shadows Into Light";
 	color: #4C4C4C;
 }
 #statement{
@@ -159,4 +162,38 @@
 	margin-left: 470px;
 	height: 35px;
 	width: 35px;
+}
+#githubstate{
+	margin-top: -70px;
+	margin-left: 515px;
+	font-size: 27px;
+}
+#bottombar2{
+	height: 150px;
+	width: 100%;
+	background-image:url('http://njrotc.troyhigh.com/wp-content/uploads/2013/11/Slider.jpg');
+}
+#contact{
+	font-size: 50px;
+	margin-left: 30px;
+	margin-top: -155px;
+	font-family: "Lucida Grande";
+	color: #4C4C4C;
+}
+#phone{
+	margin-left: 50px;
+	margin-top: 25px;
+}
+#email{
+	margin-left: 260px;
+	margin-top: -29px;
+}
+#linkedinurl{
+	margin-left: 600px;
+	margin-top: -29px;
+}
+#copyright{
+	margin-left: 1180px;
+	margin-top: 20px;
+	font-size: 10px;
 }
