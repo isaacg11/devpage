@@ -723,6 +723,21 @@
 	margin-left: 1130px;
 	cursor: pointer;
 }
+#hoverhomeAR {
+	border: 1px solid #ccc;
+	display: none;
+	font-size: 10px;
+	margin-top: 30px;
+	margin-left: -10px;
+	height: 20px;
+	width: 45px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#back4:hover #hoverhomeAR {
+	display: block;
+}
 #back5{
 	height: 20px;
 	width: 20px;
@@ -743,6 +758,21 @@
 	margin-top: -20px;
 	cursor: pointer;
 }
+#hoverresourcesAR {
+	border: 1px solid #ccc;
+	display: none;
+	font-size: 10px;
+	margin-top: 30px;
+	margin-left: -20px;
+	height: 20px;
+	width: 65px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#back5:hover #hoverresourcesAR {
+	display: block;
+}
 #back6{
 	height: 20px;
 	width: 20px;
@@ -762,4 +792,19 @@
 	margin-left: 1211px;
 	margin-top: -20px;
 	cursor: pointer;
+}
+#hoverportfolioAR {
+	border: 1px solid #ccc;
+	display: none;
+	font-size: 10px;
+	margin-top: 30px;
+	margin-left: -20px;
+	height: 20px;
+	width: 65px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#back6:hover #hoverportfolioAR {
+	display: block;
 }
