@@ -1,5 +1,6 @@
 #bodybkgd{
 	background-image: url('http://www.pixeden.com/media/k2/galleries/112/002-subtle-light-pattern-background-texture.jpg');
+	/*----------------------ABOUT--------------------------*/
 }
 #profilenavbar{
 	height: 40px;
@@ -32,6 +33,7 @@
 	margin-top: -45px;
 	margin-left: 565px;
 	font-size: 25px;
+	cursor: pointer;
 }
 #articles{
 	color: #FFFFFF;
@@ -227,4 +229,67 @@
 	height: 60px;
 	width: 100%;
 	background-color: #70DBDB;
+}
+/*----------------------RESOURCES--------------------------*/
+#resourcesheader{
+	font-size: 80px;
+	font-family: "Shadows Into Light";
+	margin-left: 50px;
+	color:#4C4C4C;
+}
+#front-end{
+	height: 520px;
+	width: 370px;
+	background-color: rgba(0,0,0,.5);
+	margin-left:50px;
+}
+#back-end{
+	height: 520px;
+	width: 370px;
+	background-color: rgba(0,0,0,.5);
+	margin-left:460px;
+	margin-top: -520px;
+}
+#styling{
+	height: 520px;
+	width: 370px;
+	background-color: rgba(0,0,0,.5);
+	margin-left:870px;
+	margin-top: -520px;
+}
+#front-endheader{
+	font-family: "Shadows Into Light";
+	margin-top: -500px;
+	margin-left: 175px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+#back-endheader{
+	font-family: "Shadows Into Light";
+	margin-top: -50px;
+	margin-left: 590px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+#stylingheader{
+	font-family: "Shadows Into Light";
+	margin-top: -50px;
+	margin-left: 1020px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+#front-endlist{
+	margin-left: 137px;
+	font-size: 20px;
+	margin-top: 30px;
+}
+#back-endlist{
+	margin-left: 565px;
+	font-size: 20px;
+	margin-top: -380px;
+}
+#stylinglist{
+	margin-left: 980px;
+	font-size: 20px;
+	margin-top: -350px;
 }

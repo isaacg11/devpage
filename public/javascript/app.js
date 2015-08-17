@@ -7,6 +7,10 @@
 		$stateProvider.state('Home',{
 			url: '/',
 			templateUrl: 'views/home.html'
+		}).
+		state('Resources',{
+			url:'/resources',
+			templateUrl: 'views/resources.html'
 		});
 		$urlRouterProvider.otherwise('/');
 	}
