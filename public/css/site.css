@@ -813,6 +813,7 @@
 	font-size: 80px;
 	font-family: "Shadows Into Light";
 	color:#70DBDB;
+	margin-left: 10px;
 }
 #topbar{
 	width: 100%;
@@ -865,4 +866,21 @@
 	color:#4C4C4C;
 	margin-left: 900px;
 	margin-top: -50px;
+}
+#cloud{
+	height: 527px;
+	width: 630px;
+	margin-left: 15px;
+}
+#house{
+	height: 450px;
+	width: 550px;
+	margin-left: 38px;
+}
+#githublogo{
+	height: 70px;
+	width: 70px;
+	border-radius: 50%;
+	margin-left: 928px;
+	margin-top: -680px;
 }
