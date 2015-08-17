@@ -366,14 +366,18 @@
 	height: 20px;
 	width: 20px;
 	border-radius: 80px;
-	background-color: #70DBDB;
+	background-color: #FFFFFF;
+	border:1px solid;
+
 	cursor: pointer;
 }
 #back2{
 	height: 20px;
 	width: 20px;
 	border-radius: 80px;
-	background-color: #70DBDB;
+	background-color: #FFFFFF;
+	border:1px solid;
+
 	margin-left: 1165px;
 	margin-top: -20px;
 	cursor: pointer;
@@ -383,7 +387,8 @@
 	height: 20px;
 	width: 20px;
 	border-radius: 80px;
-	background-color: #70DBDB;
+	background-color: #FFFFFF;
+	border:1px solid;
 	margin-left: 1130px;
 	margin-top: -20px;
 	cursor: pointer;
@@ -529,4 +534,108 @@
 	background-color: #70DBDB;
 	margin-left: 735px;
 	margin-top: -355px;
+}
+#dot11{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	margin-left: 785px;
+	margin-top: 30px;
+}
+#dot12{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	margin-left: 830px;
+	margin-top: 30px;
+}
+#developerscircle{
+	height: 150px;
+	width: 150px;
+	border-radius: 80px;
+	background-color: #4C4C4C;
+	margin-left: 850px;
+	margin-top: 10px;
+	
+}
+#developersheader{
+	font-size: 30px;
+	font-family: "Shadows Into Light";
+	color:#FFFFFF;
+	margin-top: -110px;
+	margin-left: 870px;
+}
+#dot13{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	margin-left: 778px;
+	margin-top: -319px;
+}
+#dot14{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	margin-left: 850px;
+	margin-top: -19px;
+}
+#dot15{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	margin-left: 925px;
+	margin-top: -19px;
+}
+#randomcircle{
+	height: 150px;
+	width: 150px;
+	border-radius: 80px;
+	background-color: #4C4C4C;
+	margin-left: 990px;
+	margin-top: -80px;
+	
+}
+#randomheader{
+	font-size: 30px;
+	font-family: "Shadows Into Light";
+	color:#FFFFFF;
+	margin-top: -105px;
+	margin-left: 1025px;
+}
+#back4{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #FFFFFF;
+	border:1px solid;
+	margin-top: -130px;
+	margin-left: 1130px;
+	cursor: pointer;
+}
+#back5{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #FFFFFF;
+	border:1px solid;
+	margin-left: 1170px;
+	margin-top: -20px;
+	cursor: pointer;
+
+}
+#back6{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #FFFFFF;
+	border:1px solid;
+	margin-left: 1211px;
+	margin-top: -20px;
+	cursor: pointer;
+
 }
