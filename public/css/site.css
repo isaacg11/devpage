@@ -23,6 +23,14 @@
 	margin-top: -50px;
 	margin-left: 390px;
 	font-size: 25px;
+	cursor: pointer;
+}
+#portfolio:hover{
+	color: #70DBDB;
+	margin-top: -50px;
+	margin-left: 390px;
+	font-size: 25px;
+	cursor: pointer;
 }
 #profileheader{
 	margin-top: -10px;
@@ -35,8 +43,22 @@
 	font-size: 25px;
 	cursor: pointer;
 }
+#resources:hover{
+	color: #70DBDB;
+	margin-top: -45px;
+	margin-left: 565px;
+	font-size: 25px;
+	cursor: pointer;
+}
 #articles{
 	color: #FFFFFF;
+	margin-top: -45px;
+	margin-left: 760px;
+	font-size: 25px;
+	cursor: pointer;
+}
+#articles:hover{
+	color: #70DBDB;
 	margin-top: -45px;
 	margin-left: 760px;
 	font-size: 25px;
@@ -74,7 +96,7 @@
 	height: 620px;
 	width: 415px;
 	background-color: rgba(0,0,0,.5);
-	margin-left: 850px;
+	margin-left: 848px;
 	margin-top: -480px;
 }
 #angular{
@@ -160,7 +182,7 @@
 }
 #bottombar{
 	height: 50px;
-	width: 850px;
+	width: 848px;
 	background-color: #E6E6E6;
 	margin-top: 480px;
 }
@@ -229,7 +251,7 @@
 #bottombar3{
 	height: 60px;
 	width: 100%;
-	background-color: #70DBDB;
+	background-color: #CCCCCC;
 }
 /*----------------------RESOURCES--------------------------*/
 #resourcesheader{
@@ -368,7 +390,16 @@
 	border-radius: 80px;
 	background-color: #FFFFFF;
 	border:1px solid;
-
+	cursor: pointer;
+}
+#back:hover{
+	margin-top: -500px;
+	margin-left: 1200px;
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	border:1px solid;
 	cursor: pointer;
 }
 #back2{
@@ -377,17 +408,35 @@
 	border-radius: 80px;
 	background-color: #FFFFFF;
 	border:1px solid;
-
 	margin-left: 1165px;
 	margin-top: -20px;
 	cursor: pointer;
-
+}
+#back2:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	border:1px solid;
+	margin-left: 1165px;
+	margin-top: -20px;
+	cursor: pointer;
 }
 #back3{
 	height: 20px;
 	width: 20px;
 	border-radius: 80px;
 	background-color: #FFFFFF;
+	border:1px solid;
+	margin-left: 1130px;
+	margin-top: -20px;
+	cursor: pointer;
+}
+#back3:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
 	border:1px solid;
 	margin-left: 1130px;
 	margin-top: -20px;
@@ -617,6 +666,16 @@
 	margin-left: 1130px;
 	cursor: pointer;
 }
+#back4:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	border:1px solid;
+	margin-top: -130px;
+	margin-left: 1130px;
+	cursor: pointer;
+}
 #back5{
 	height: 20px;
 	width: 20px;
@@ -626,13 +685,32 @@
 	margin-left: 1170px;
 	margin-top: -20px;
 	cursor: pointer;
-
+}
+#back5:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	border:1px solid;
+	margin-left: 1170px;
+	margin-top: -20px;
+	cursor: pointer;
 }
 #back6{
 	height: 20px;
 	width: 20px;
 	border-radius: 80px;
 	background-color: #FFFFFF;
+	border:1px solid;
+	margin-left: 1211px;
+	margin-top: -20px;
+	cursor: pointer;
+}
+#back6:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
 	border:1px solid;
 	margin-left: 1211px;
 	margin-top: -20px;
