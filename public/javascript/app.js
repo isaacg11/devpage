@@ -11,6 +11,10 @@
 		state('Resources',{
 			url:'/resources',
 			templateUrl: 'views/resources.html'
+		}).
+		state('Articles',{
+			url:'/articles',
+			templateUrl: 'views/articles.html'
 		});
 		$urlRouterProvider.otherwise('/');
 	}
