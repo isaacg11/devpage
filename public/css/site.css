@@ -924,3 +924,102 @@
 	margin-left: 820px;
 	font-size: 20px;
 }
+#back7{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #FFFFFF;
+	margin-left: 1200px;
+	margin-top: -580px;
+	border:1px solid;
+	cursor: pointer;
+}
+#back7:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	border:1px solid;
+	cursor: pointer;
+}
+#hoverresourcesPO {
+	border: 1px solid #ccc;
+	display: none;
+	font-size: 10px;
+	height: 20px;
+	width: 65px;
+	margin-top: 30px;
+	margin-left: -20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#back7:hover #hoverresourcesPO {
+	display: block;
+}
+#back8{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #FFFFFF;
+	margin-left: 1160px;
+	margin-top: -20px;
+	border:1px solid;
+	cursor: pointer;
+}
+#back8:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	border:1px solid;
+	cursor: pointer;
+}
+#hoverarticlesPO {
+	border: 1px solid #ccc;
+	display: none;
+	font-size: 10px;
+	height: 20px;
+	width: 65px;
+	margin-top: 30px;
+	margin-left: -20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#back8:hover #hoverarticlesPO {
+	display: block;
+}
+#back9{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #FFFFFF;
+	margin-left: 1120px;
+	margin-top: -20px;
+	border:1px solid;
+	cursor: pointer;
+}
+#back9:hover{
+	height: 20px;
+	width: 20px;
+	border-radius: 80px;
+	background-color: #70DBDB;
+	border:1px solid;
+	cursor: pointer;
+}
+#hoverhomePO {
+	border: 1px solid #ccc;
+	display: none;
+	font-size: 10px;
+	height: 20px;
+	width: 65px;
+	margin-top: 30px;
+	margin-left: -20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#back9:hover #hoverhomePO {
+	display: block;
+}
