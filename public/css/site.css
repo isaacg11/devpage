@@ -112,35 +112,71 @@
 #angular{
 	margin-left: 886px;
 	margin-top: -955px;
+	opacity: 0.8;
+	filter: alpha(opacity=80); 
+}
+
+#angular:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #node{
 	margin-left: 1010px;
 	margin-top: -990px;
 	border-radius: 10px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+#node:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #mongo{
 	margin-left: 886px;
 	margin-top: -780px;
 	border-radius: 10px;
-
+	opacity: 0.8;
+	filter: alpha(opacity=80);
 }
+#mongo:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
+}
+
 #express{
 	margin-left: 1010px;
 	margin-top: -821px;
 	border-radius: 10px;
-
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+#express:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #meteor{
 	margin-left: 886px;
 	margin-top: -610px;
 	border-radius: 10px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
 
+}
+#meteor:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #bootstrap{
 	margin-left: 1010px;
 	margin-top: -650px;
 	border-radius: 10px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
 	
+}
+#bootstrap:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #css{
 	margin-left: 886px;
@@ -148,19 +184,37 @@
 	border-radius: 10px;
 	height: 100px;
 	width: 100px;
-
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+#css:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #js{
 	margin-left: 1010px;
 	margin-top: -480px;	
 	border-radius: 10px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
 }
+#js:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
+}
+
 #html5{
 	margin-left: 1135px;
 	margin-top: -520px;
 	border-radius: 10px;
 	height: 100px;
 	width: 100px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+#html5:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #gulp{
 	margin-left: 1135px;
@@ -168,6 +222,12 @@
 	border-radius: 10px;
 	height: 100px;
 	width: 100px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+#gulp:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #sass{
 	margin-left: 1135px;
@@ -175,6 +235,12 @@
 	border-radius: 10px;
 	height: 100px;
 	width: 100px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+#sass:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #passport{
 	margin-left: 1135px;
@@ -182,6 +248,12 @@
 	border-radius: 10px;
 	height: 100px;
 	width: 100px;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+#passport:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); 
 }
 #bottombar{
 	height: 50px;
