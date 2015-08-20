@@ -95,18 +95,25 @@
 	margin-left: 30px
 }
 #myjstoolbelt{
-	margin-top: -850px;
+	margin-top: -810px;
 	margin-left: 950px;
 	font-size: 25px;
 	font-family: "Shadows Into Light";
 	color: #FFFFFF;
+}
+#hammer{
+	margin-top: -1750px;
+	margin-left: 1020px;
+	width: 75px;
+	height: 75px;
+	border-radius: 70%;
 }
 #sidebar{
 	height: 675px;
 	width: 415px;
 	background-color: rgba(0,0,0,.5);
 	margin-left: 848px;
-	margin-top: -480px;
+	margin-top: -500px;
 }
 
 #angular{
@@ -259,7 +266,7 @@
 	height: 50px;
 	width: 848px;
 	background-color: #E6E6E6;
-	margin-top: -290px;
+	margin-top: -310px;
 }
 #twitter{
 	height: 35px;
@@ -566,10 +573,10 @@
 /*----------------------ARTICLES--------------------------*/
 
 #articlesheader{
-	font-size: 80px;
+	font-size: 50px;
 	font-family: "Shadows Into Light";
-	margin-left: 500px;
-	margin-top: -200px;
+	margin-left: 60px;
+	margin-top: 20px;
 	color:#70DBDB;
 }
 #headercircle{
@@ -578,8 +585,25 @@
 	width: 250px;
 	border-radius: 50%;
 	margin-left: 480px;
+	margin-top: 20px;
 	box-shadow: 10px 10px 5px #888888;
 
+}
+#headercircle {
+	-webkit-transition:all 0.5s ease-out;
+	-moz-transition:all 0.5s ease-out;
+	-ms-transition:all 0.5s ease-out;
+	-o-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
+}
+
+#headercircle:hover {
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+	-o-transform:rotate(360deg);
+	transform:rotate(360deg);
+	cursor: pointer;
 }
 #dot1{
 	height: 20px;
@@ -615,10 +639,26 @@
 	box-shadow: 10px 10px 5px #888888;
 
 }
+#mobileappscircle {
+	-webkit-transition:all 0.5s ease-out;
+	-moz-transition:all 0.5s ease-out;
+	-ms-transition:all 0.5s ease-out;
+	-o-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
+}
+
+#mobileappscircle:hover {
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+	-o-transform:rotate(360deg);
+	transform:rotate(360deg);
+	cursor: pointer;
+}
 #mobileappsheader{
 	font-size: 30px;
 	font-family: "Shadows Into Light";
-	margin-left: 90px;
+	margin-left: 45px;
 	margin-top: -105px;
 	color:#FFFFFF;
 }
@@ -649,6 +689,8 @@
 #frameworkscircle{
 	height: 150px;
 	width: 150px;
+	word-wrap: break-word;
+	text-align: center;
 	border-radius: 80px;
 	background-color: #4C4C4C;
 	margin-left: 200px;
@@ -656,12 +698,28 @@
 
 	
 }
+#frameworkscircle {
+	-webkit-transition:all 0.5s ease-out;
+	-moz-transition:all 0.5s ease-out;
+	-ms-transition:all 0.5s ease-out;
+	-o-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
+}
+
+#frameworkscircle:hover {
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+	-o-transform:rotate(360deg);
+	transform:rotate(360deg);
+	cursor: pointer;
+}
 #frameworksheader{
 	font-size: 30px;
 	font-family: "Shadows Into Light";
 	color:#FFFFFF;
-	margin-top: -100px;
-	margin-left: 210px;
+	margin-top: -70px;
+
 }
 #dot7{
 	height: 20px;
@@ -698,12 +756,28 @@
 
 	
 }
+#technewscircle {
+	-webkit-transition:all 0.5s ease-out;
+	-moz-transition:all 0.5s ease-out;
+	-ms-transition:all 0.5s ease-out;
+	-o-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
+}
+
+#technewscircle:hover {
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+	-o-transform:rotate(360deg);
+	transform:rotate(360deg);
+	cursor: pointer;
+}
 #technewsheader{
 	font-size: 30px;
 	font-family: "Shadows Into Light";
 	color:#FFFFFF;
-	margin-top: -100px;
-	margin-left: 540px;
+	/*margin-top: -100px;
+	margin-left: 540px;*/
 }
 #dot10{
 	height: 20px;
@@ -740,12 +814,28 @@
 
 	
 }
+#developerscircle {
+	-webkit-transition:all 0.5s ease-out;
+	-moz-transition:all 0.5s ease-out;
+	-ms-transition:all 0.5s ease-out;
+	-o-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
+}
+
+#developerscircle:hover {
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+	-o-transform:rotate(360deg);
+	transform:rotate(360deg);
+	cursor: pointer;
+}
 #developersheader{
 	font-size: 30px;
 	font-family: "Shadows Into Light";
 	color:#FFFFFF;
-	margin-top: -110px;
-	margin-left: 870px;
+	/*margin-top: -110px;
+	margin-left: 870px;*/
 }
 #dot13{
 	height: 20px;
@@ -769,25 +859,40 @@
 	border-radius: 80px;
 	background-color: #70DBDB;
 	margin-left: 925px;
-	margin-top: -19px;
 }
 #randomcircle{
 	height: 150px;
 	width: 150px;
 	border-radius: 80px;
 	background-color: #4C4C4C;
-	margin-left: 990px;
-	margin-top: -80px;
+	margin-left: 1010px;
+	margin-top: -225px;
 	box-shadow: 10px 10px 5px #888888;
 
 	
+}
+#randomcircle {
+	-webkit-transition:all 0.5s ease-out;
+	-moz-transition:all 0.5s ease-out;
+	-ms-transition:all 0.5s ease-out;
+	-o-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
+}
+
+#randomcircle:hover {
+	-webkit-transform:rotate(360deg);
+	-moz-transform:rotate(360deg);
+	-ms-transform:rotate(360deg);
+	-o-transform:rotate(360deg);
+	transform:rotate(360deg);
+	cursor: pointer;
 }
 #randomheader{
 	font-size: 30px;
 	font-family: "Shadows Into Light";
 	color:#FFFFFF;
-	margin-top: -105px;
-	margin-left: 1025px;
+	/*margin-top: -105px;
+	margin-left: 1025px;*/
 }
 #back4{
 	height: 20px;
@@ -795,7 +900,7 @@
 	border-radius: 80px;
 	background-color: #FFFFFF;
 	border:1px solid;
-	margin-top: -130px;
+	margin-top: -240px;
 	margin-left: 1130px;
 	cursor: pointer;
 }
@@ -805,9 +910,11 @@
 	border-radius: 80px;
 	background-color: #70DBDB;
 	border:1px solid;
-	margin-top: -130px;
+	margin-top: -240px;
 	margin-left: 1130px;
 	cursor: pointer;
+	border-color: #FFFFFF;
+
 }
 #hoverhomeAR {
 	border: 1px solid #ccc;
@@ -840,6 +947,7 @@
 	border-radius: 80px;
 	background-color: #70DBDB;
 	border:1px solid;
+	border-color: #FFFFFF;
 	margin-left: 1170px;
 	margin-top: -20px;
 	cursor: pointer;
@@ -875,6 +983,8 @@
 	border-radius: 80px;
 	background-color: #70DBDB;
 	border:1px solid;
+	border-color: #FFFFFF;
+
 	margin-left: 1211px;
 	margin-top: -20px;
 	cursor: pointer;
@@ -894,7 +1004,7 @@
 #back6:hover #hoverportfolioAR {
 	display: block;
 }
-/*----------------------PORTFOLIO--------------------------*/
+/*//----------------------PORTFOLIO--------------------------*/
 #portfolioheader{
 	font-size: 80px;
 	font-family: "Shadows Into Light";
@@ -1033,6 +1143,8 @@
 	border-radius: 80px;
 	background-color: #70DBDB;
 	border:1px solid;
+	border-color: #FFFFFF;
+
 	cursor: pointer;
 }
 #hoverresourcesPO {
@@ -1066,6 +1178,8 @@
 	border-radius: 80px;
 	background-color: #70DBDB;
 	border:1px solid;
+	border-color: #FFFFFF;
+
 	cursor: pointer;
 }
 #hoverarticlesPO {
@@ -1100,6 +1214,7 @@
 	background-color: #70DBDB;
 	border:1px solid;
 	cursor: pointer;
+	border-color: #FFFFFF;
 }
 #hoverhomePO {
 	border: 1px solid #ccc;
@@ -1118,3 +1233,4 @@
 }
 
 
+/*
